@@ -1,6 +1,10 @@
 Portfolio
-- Hola, soy sordo y soy desarrollador web. ¿Me puedes apoyar para enseñar a personas sordas qué es un portfolio website? ¿Sirve para mi futuro trabajo y para mi CV?
+- Hola, soy sordo y soy desarrollador web.
+- Me puedes apoyar para enseñar a personas sordas qué es un portfolio website?
+- ¿Sirve para mi futuro trabajo y para mi CV?
+  
 ¿ Qué es un Portfolio Website?
+
 <---Un Portfolio Website (sitio web de portafolio) es una página web donde muestras:
 -Tus proyectos de desarrollo web.
 -Tus habilidades (HTML, CSS, JavaScript, React, PHP, etc.).
