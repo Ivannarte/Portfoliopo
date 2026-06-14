@@ -6,12 +6,12 @@ Portfolio
 ¿ Qué es un Portfolio Website?
 
 <---Un Portfolio Website (sitio web de portafolio) es una página web donde muestras:
--Tus proyectos de desarrollo web.
--Tus habilidades (HTML, CSS, JavaScript, React, PHP, etc.).
--Tu experiencia.
--Tu educación.
--Tu información de contacto.
--Tu CV para descargar.
+#Tus proyectos de desarrollo web.
+#Tus habilidades (HTML, CSS, JavaScript, React, PHP, etc.).
+#Tu experiencia.
+#Tu educación.
+#Tu información de contacto.
+#Tu CV para descargar.
 
 *Es como un CV en internet, pero más visual y profesional.
 
